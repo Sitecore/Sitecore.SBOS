@@ -1,0 +1,15 @@
+﻿<Project ToolsVersion="4.0"
+         xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <!--
+     <ExcludeFromPackageFolders Include="Scripts\large">
+      <FromTarget>Project</FromTarget>
+    </ExcludeFromPackageFolders> 
+    -->
+    <!--
+    <ExcludeFromPackageFiles Include="bin\ComponentArt.Web.UI.dll;DynamicPlaceholders.dll;DynamicPlaceholders.Mvc.dll;HtmlAgilityPack.dll;HtmlAgilityPack.xml;ITHit.WebDAV.Server.dll;Lucene.Net.dll;Lucene.Net.xml;">
+      <FromTarget>Sitecore.RelatedContentDetection.wpp.targets</FromTarget>
+    </ExcludeFromPackageFiles>
+    -->
+  </ItemGroup>
+</Project>
